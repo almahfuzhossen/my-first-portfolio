@@ -8,7 +8,16 @@ h1{
 h2{
 font-size: 30px;
 }
-
+.myBtn{
+    color: red;
+    border: 1px solid black;
+    padding: 17px;
+    border-radius: 44px;
+}
+.myBtn a{
+    text-decoration: none;
+    color: black;
+}
 .color-orange{
       color: orange;
 }
